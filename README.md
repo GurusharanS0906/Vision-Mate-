@@ -1,4 +1,5 @@
 # Vision Mate – Smart Walking Stick for the Visually Impaired
+<img width="1920" height="1536" alt="Vision Mate" src="https://github.com/user-attachments/assets/892a4cc3-0315-4799-ba07-d828be4b2fd3" />
 
 Vision Mate is an IoT-based assistive device designed to help visually impaired individuals navigate safely.
 
